@@ -105,6 +105,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact:
 
-- **Your Name:** sumitsingh28871@gmail.com
+- **Your Name:** Sumit Singh
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/sumit-singh-282044166)
 - **GitHub:** [GitHub Profile](https://github.com/sumitsingh28871)
